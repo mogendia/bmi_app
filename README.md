@@ -1,6 +1,6 @@
 # bmi_app
 
-A new Flutter project.
+To Calculate bmi & bfp.
 
 ## Getting Started
 
